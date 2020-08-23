@@ -2,9 +2,4 @@
 layout: about
 ---
 
-These are controlled by `about.md` under the root directory. If you want a more diverse self-introduction, you can insert the markdown content you want here.
-
-### What's New
-
-- One paper got accepted in xxx 2019.
-- I'm going to join xxx as a xxx 2019 Fall.
+在前端开发的道路上不断向前，成为高级前端高级工程师之前，努力奋斗，坚持不懈，沉淀技术，拓展视野。
