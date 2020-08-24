@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 前端优化之 Debouce 防抖
+title: 前端性能优化之 Debouce 防抖
 ---
 
 ## 防抖 `Debounce`
