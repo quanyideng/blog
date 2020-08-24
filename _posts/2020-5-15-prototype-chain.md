@@ -76,7 +76,7 @@ console.log(f1.__proto__.__proto__ === Object.prototype) // true
 f1.__proto__.__proto__.__proto__ === null // true
 ````
 
-上面展示了`f1`队形的原型链及其顶端，所用实例对象的原型最终都指向 `null `，由于`null`没有任何意义，因此可以认为原型链的顶端为`Object.prototype`。
+上面展示了`f1`对象的原型链及其顶端，所用实例对象的原型最终都指向 `null `，由于`null`没有任何意义，因此可以认为原型链的顶端为`Object.prototype`。
 
 最后附上一个图，看图写代码更容易理解
 
